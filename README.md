@@ -1,4 +1,4 @@
-# Launch Project 2025
+# Hunch Project 2025-2026
 
 ## Description
 A robotics/mechanical system designed for this year's NASA HUNCH "Lunar Jumping Robot" challenge. Includes hardware, software, and control systems.
